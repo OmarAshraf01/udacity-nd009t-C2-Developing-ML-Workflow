@@ -5,8 +5,8 @@ import os
 import boto3
 from botocore.exceptions import ClientError
 
-BUCKET_NAME = 'FILL_THIS_IN'
-PREFIX = 'FILL_THIS_IN'
+BUCKET_NAME = 'sagemaker-us-east-1-852197184467'
+PREFIX = 'l3e1'
 
 # Function below unzips the archive to the local directory. 
 
